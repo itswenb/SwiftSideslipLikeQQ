@@ -1,7 +1,7 @@
 《再造 “手机QQ” 侧滑菜单》系列文章代码仓库
 --
 
-###开发环境
+### 开发环境
 
 * Xcode 8+ / Swift 3+
 * 支持 Xcode 7 的[旧版本](https://github.com/johnlui/SwiftSideslipLikeQQ/releases/tag/v3.1.1)
@@ -9,17 +9,17 @@
 
 ###文章链接
 
-####1. [再造 “手机QQ” 侧滑效果（一）——实现侧滑效果](http://lvwenhan.com/ios/445.html)
+#### 1. [再造 “手机QQ” 侧滑效果（一）——实现侧滑效果](http://lvwenhan.com/ios/445.html)
 实现效果：
 
 ![pic](https://raw.githubusercontent.com/johnlui/SwiftSideslipLikeQQ/master/assets/274a1428736205.gif)
 
-####2. [再造 “手机QQ” 侧滑菜单（二）——高仿左视图](http://lvwenhan.com/ios/446.html)
+#### 2. [再造 “手机QQ” 侧滑菜单（二）——高仿左视图](http://lvwenhan.com/ios/446.html)
 实现效果：
 
 ![pic](https://raw.githubusercontent.com/johnlui/SwiftSideslipLikeQQ/master/assets/068a1428761914.gif)
 
-####3. [再造 “手机QQ” 侧滑菜单（三）——视图联动](http://lvwenhan.com/ios/447.html)
+#### 3. [再造 “手机QQ” 侧滑菜单（三）——视图联动](http://lvwenhan.com/ios/447.html)
 实现效果：
 
 ![pic](https://raw.githubusercontent.com/johnlui/SwiftSideslipLikeQQ/master/assets/8f171428840820.gif)
